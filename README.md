@@ -67,6 +67,13 @@
 
 ---
 
+### 🐍 Contribution Snake
+
+![GitHub Snake Light](https://raw.githubusercontent.com/Sandyfirdaus1/Sandyfirdaus1/output/snake.svg#gh-light-mode-only)
+![GitHub Snake Dark](https://raw.githubusercontent.com/Sandyfirdaus1/Sandyfirdaus1/output/snake.svg#gh-dark-mode-only)
+
+---
+
 ## 🔥 GitHub Streak  
 
 <p align="center">
@@ -80,13 +87,6 @@
     <img src="https://streak-stats.demolab.com?user=Sandyfirdaus1&border_radius=10" />
   </picture>
 </p>
-
----
-
-### 🐍 Contribution Snake
-
-![GitHub Snake Light](https://raw.githubusercontent.com/Sandyfirdaus1/Sandyfirdaus1/output/snake.svg#gh-light-mode-only)
-![GitHub Snake Dark](https://raw.githubusercontent.com/Sandyfirdaus1/Sandyfirdaus1/output/snake.svg#gh-dark-mode-only)
 
 ---
 

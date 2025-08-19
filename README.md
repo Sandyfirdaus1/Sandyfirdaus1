@@ -66,11 +66,10 @@
 
 ---
 
-## 📫 Let’s Connect   
-🌐 [Portfolio Website](https://sandyfirdaus1.github.io/my_portfolio){:target="_blank" rel="noopener noreferrer"}  
-💼 [LinkedIn](https://www.linkedin.com/in/m-shandy-firdaus-5bb106241/){:target="_blank" rel="noopener noreferrer"}  
-✉️ Email: **sandyfirdaus19@gmail.com**  
-  
+## 📫 Let’s Connect  
+🌐 <a href="https://sandyfirdaus1.github.io/my_portfolio" target="_blank" rel="noopener noreferrer">Portfolio Website</a>  
+💼 <a href="https://www.linkedin.com/in/m-shandy-firdaus-5bb106241/" target="_blank" rel="noopener noreferrer">LinkedIn</a>  
+✉️ Email: <strong>sandyfirdaus19@gmail.com</strong>
 
 ---
 

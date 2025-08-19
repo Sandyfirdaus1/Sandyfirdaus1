@@ -67,9 +67,9 @@
 ---
 
 ## 📫 Let’s Connect  
-🌐 [Portfolio Website](https://sandyfirdaus1.github.io/my_portfolio)  
-💼 [LinkedIn](https://www.linkedin.com/in/m-shandy-firdaus-5bb106241/)  
-✉️ Email: **sandyfirdaus19@gmail.com**  
+🌐 <a href="https://sandyfirdaus1.github.io/my_portfolio" target="_blank">Portfolio Website</a>  
+💼 <a href="https://www.linkedin.com/in/m-shandy-firdaus-5bb106241/" target="_blank">LinkedIn</a>  
+✉️ Email: <a href="mailto:sandyfirdaus19@gmail.com" target="_blank">sandyfirdaus19@gmail.com</a>  
 
 ---
 

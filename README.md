@@ -66,22 +66,6 @@
 
 ---
 
-## 🏆 GitHub Trophies  
-
-<p align="center">
-  <picture>
-    <source 
-      srcset="https://github-profile-trophy.vercel.app/?username=Sandyfirdaus1&theme=tokyonight&no-frame=true&margin-w=5"
-      media="(prefers-color-scheme: dark)" />
-    <source 
-      srcset="https://github-profile-trophy.vercel.app/?username=Sandyfirdaus1&theme=flat&no-frame=true&margin-w=5"
-      media="(prefers-color-scheme: light)" />
-    <img src="https://github-profile-trophy.vercel.app/?username=Sandyfirdaus1&no-frame=true&margin-w=5" />
-  </picture>
-</p>
-
----
-
 ## 📫 Let’s Connect  
 🌐 [Portfolio Website](https://sandyfirdaus1.github.io/my_portfolio)  
 💼 [LinkedIn](https://www.linkedin.com/in/m-shandy-firdaus-5bb106241/)  

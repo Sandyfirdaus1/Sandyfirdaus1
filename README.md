@@ -85,9 +85,8 @@
 
 ### 🐍 Contribution Snake
 
-![GitHub Snake Light](https://raw.githubusercontent.com/Sandyfirdaus1/REPO/output/snake.svg#gh-light-mode-only)
-![GitHub Snake Dark](https://raw.githubusercontent.com/Sandyfirdaus1/REPO/output/snake.svg#gh-dark-mode-only)
-
+![GitHub Snake Light](https://raw.githubusercontent.com/Sandyfirdaus1/Sandyfirdaus1/output/snake.svg#gh-light-mode-only)
+![GitHub Snake Dark](https://raw.githubusercontent.com/Sandyfirdaus1/Sandyfirdaus1/output/snake.svg#gh-dark-mode-only)
 
 ---
 

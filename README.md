@@ -83,6 +83,16 @@
 
 ---
 
+### 🐍 Contribution Snake
+
+<!-- Light mode -->
+![snake svg](https://raw.githubusercontent.com/Sandyfirdaus1/Sandyfirdaus1/output/dist/snake.svg#gh-light-mode-only)
+
+<!-- Dark mode -->
+![snake svg](https://raw.githubusercontent.com/Sandyfirdaus1/Sandyfirdaus1/output/dist/snake-dark.svg#gh-dark-mode-only)
+
+---
+
 ## 🏆 GitHub Trophies  
 
 <p align="center">

@@ -43,34 +43,6 @@
 
 ---
 
-## 📊 GitHub Stats  
-
-<p align="center">
-  <picture>
-    <source 
-      srcset="https://github-readme-stats.vercel.app/api?username=Sandyfirdaus1&show_icons=true&theme=tokyonight"
-      media="(prefers-color-scheme: dark)" />
-    <source 
-      srcset="https://github-readme-stats.vercel.app/api?username=Sandyfirdaus1&show_icons=true&theme=default"
-      media="(prefers-color-scheme: light)" />
-    <img src="https://github-readme-stats.vercel.app/api?username=Sandyfirdaus1&show_icons=true" />
-  </picture>
-</p>
-
-<p align="center">
-  <picture>
-    <source 
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Sandyfirdaus1&layout=compact&theme=tokyonight"
-      media="(prefers-color-scheme: dark)" />
-    <source 
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Sandyfirdaus1&layout=compact&theme=default"
-      media="(prefers-color-scheme: light)" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sandyfirdaus1&layout=compact" />
-  </picture>
-</p>
-
----
-
 ### 🐍 Contribution Snake
 
 ![GitHub Snake Light](https://raw.githubusercontent.com/Sandyfirdaus1/Sandyfirdaus1/output/snake.svg#gh-light-mode-only)

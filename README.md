@@ -31,7 +31,8 @@
 - 🎉 [**Lomba 17 Agustus Website**](https://github.com/Sandyfirdaus1/lomba-17-agustus) → Full-stack platform for Independence Day competitions  
 - 💍 [**Wedding Invitation**](https://github.com/Sandyfirdaus1/wedding-invitation) → Digital wedding invitation with RSVP, maps, and gallery  
 - 🍲 [**Rasa Nusantara**](https://github.com/Sandyfirdaus1/makanan_nusantara) → Culinary showcase of Indonesian food  
-- 🧠 [**Mental Health Platform**](https://github.com/Sandyfirdaus1/mental_health) → Web-based i-CBT prototype for young adults  
+- 🧠 [**Mental Health Platform**](https://github.com/Sandyfirdaus1/mental_health) → Web-based i-CBT prototype for young adults
+- ☕ [**Warkop Management System**](https://github.com/Sandyfirdaus1/rekap-laporan-warkop) → Web-based application for managing sales, inventory, and financial reports  
 
 ---
 

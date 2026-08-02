@@ -1,38 +1,157 @@
-# 👋 Hi, I’m Shandy Firdaus  
+<h1 align="center">Hi 👋, I'm Shandy Firdaus</h1>
 
-🎓 I’m a **Computer Science graduate** from Universitas YARSI with a strong passion for **technology, innovation, and continuous self-development**.  
-💻 Experienced in **full-stack web development**, focusing on creating impactful and user-friendly digital solutions.  
-🌱 Actively learning and building projects that combine **frontend creativity** and **backend logic**.  
-
----
-
-## 🚀 Tech Stack & Tools  
+<h3 align="center">
+Computer Science Graduate • Aspiring Data Analyst • System Analyst • Business Analyst • Full Stack Web Developer
+</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&pause=1000&color=0EA5E9&center=true&vCenter=true&width=750&lines=Computer+Science+Graduate;Aspiring+Data+Analyst;System+Analyst+%7C+Business+Analyst;Full+Stack+Web+Developer;Always+Learning+New+Technologies" />
 </p>
- 
 
 ---
 
-## 📌 Featured Projects  
-- 🎉 [**Lomba 17 Agustus Website**](https://github.com/Sandyfirdaus1/lomba-17-agustus) → Full-stack platform for Independence Day competitions  
-- 💍 [**Wedding Invitation**](https://github.com/Sandyfirdaus1/wedding-invitation) → Digital wedding invitation with RSVP, maps, and gallery  
-- 🍲 [**Rasa Nusantara**](https://github.com/Sandyfirdaus1/makanan_nusantara) → Culinary showcase of Indonesian food  
-- 🧠 [**Mental Health Platform**](https://github.com/Sandyfirdaus1/mental_health) → Web-based i-CBT prototype for young adults
-- ☕ [**Warkop Management System**](https://github.com/Sandyfirdaus1/rekap-laporan-warkop) → Web-based application for managing sales, inventory, and financial reports  
+# 💫 About Me
+
+🎓 I'm a **Computer Science graduate** from **Universitas YARSI** with a strong passion for technology, business, and data.
+
+I enjoy transforming **business problems into digital solutions**, whether by analyzing data, designing systems, or building web applications.
+
+Currently, I'm focusing on:
+
+- 📊 Data Analytics
+- 📈 Business Analysis
+- 🧩 System Analysis
+- 💻 Full Stack Web Development
+
+I love learning new technologies and continuously improving my technical and analytical skills through real-world projects.
+
+---
+
+# 🚀 Tech Stack
+
+### Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,javascript,html,css" />
+</p>
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,django,flask" />
+</p>
+
+### Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" />
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+## 🎉 Lomba 17 Agustus Management System ⭐
+
+📂 Repository
+
+https://github.com/Sandyfirdaus1/katar11-17agustus
+
+🌐 Live Demo
+
+https://katar11-17agustus.vercel.app/
+
+A full-stack web application built for managing Indonesia Independence Day competitions.
+
+### Features
+
+- 📝 Online Registration
+- 👥 Participant Management
+- 🏆 Competition Brackets
+- 📊 Dashboard & Statistics
+- 🥇 Winner Management
+- 🔐 Admin Panel
+- 📱 Responsive Design
+
+### Tech Stack
+
+- Next.js
+- TypeScript
+- Tailwind CSS
+- MongoDB
+- Mongoose
+
+---
+
+## ☕ Rekap Laporan Warkop ⭐
+
+📂 Repository
+
+https://github.com/Sandyfirdaus1/rekap-laporan-warkop
+
+🌐 Live Demo
+
+https://rekap-laporan-warkop.vercel.app/
+
+A modern web application for managing café operations and business reporting.
+
+### Features
+
+- 💰 Sales Management
+- 📦 Inventory Management
+- 📊 Financial Reports
+- 📈 Dashboard Analytics
+- 📅 Daily & Monthly Reports
+- 👤 User Authentication
+
+### Tech Stack
+
+- Next.js
+- Tailwind CSS
+- MongoDB
+- Chart.js
+
+---
+
+## 💍 Wedding Invitation
+
+📂 Repository
+
+https://github.com/Sandyfirdaus1/wedding-invitation
+
+A responsive digital invitation featuring RSVP, countdown timer, maps, gallery, and guest wishes.
+
+---
+
+## 🧠 Mental Health Platform
+
+📂 Repository
+
+https://github.com/Sandyfirdaus1/mental_health
+
+An i-CBT web platform designed to support young adults in improving mental well-being.
+
+---
+
+## 🍲 Makanan Nusantara
+
+📂 Repository
+
+https://github.com/Sandyfirdaus1/makanan_nusantara
+
+A responsive website showcasing Indonesian traditional cuisine with a modern user interface.
 
 ---
 
@@ -67,11 +186,34 @@
 
 ---
 
-## 📫 Let’s Connect  
-🌐 <a href="https://sandyfirdaus1.github.io/my_portfolio" target="_blank" rel="noopener noreferrer">Portfolio Website</a>  
-💼 <a href="https://www.linkedin.com/in/m-shandy-firdaus-5bb106241/" target="_blank" rel="noopener noreferrer">LinkedIn</a>  
-✉️ Email: <strong>sandyfirdaus19@gmail.com</strong>
+# 🌐 Connect With Me
+
+🌍 Portfolio
+
+https://sandyfirdaus1.github.io/my_portfolio
+
+💼 LinkedIn
+
+https://www.linkedin.com/in/m-shandy-firdaus/
+
+📧 Email
+
+sandyfirdaus19@gmail.com
+
+🐙 GitHub
+
+https://github.com/Sandyfirdaus1
 
 ---
 
-👉 Always eager to collaborate on innovative projects and contribute to impactful solutions!  
+# 💡 Quote
+
+> "Every project is an opportunity to learn, improve, and create meaningful impact."
+
+---
+
+<p align="center">
+
+⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
+
+</p>

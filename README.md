@@ -71,7 +71,7 @@ https://github.com/Sandyfirdaus1/katar11-17agustus
 
 🌐 Live Demo
 
-https://katar11-17agustus.vercel.app/
+https://crew011-17agustus.vercel.app/
 
 A full-stack web application built for managing Indonesia Independence Day competitions.
 
@@ -103,7 +103,7 @@ https://github.com/Sandyfirdaus1/rekap-laporan-warkop
 
 🌐 Live Demo
 
-https://rekap-laporan-warkop.vercel.app/
+https://warkop-sudi-mampir.vercel.app/
 
 A modern web application for managing café operations and business reporting.
 

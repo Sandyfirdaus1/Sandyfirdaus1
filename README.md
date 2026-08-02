@@ -116,13 +116,14 @@ A modern web application for managing café operations and business reporting.
 - 📅 Daily & Monthly Reports
 - 👤 User Authentication
 
-### Tech Stack
+### 🛠️ Tech Stack
 
 - Next.js
+- TypeScript
 - Tailwind CSS
-- MongoDB
-- Chart.js
-
+- MySQL
+- Prisma ORM
+  
 ---
 
 ## 💍 Wedding Invitation
